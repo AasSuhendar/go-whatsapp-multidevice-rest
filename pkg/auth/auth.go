@@ -1,7 +1,7 @@
 package auth
 
 import (
-	"github.com/dimaskiddo/go-whatsapp-multidevice-rest/pkg/env"
+	"github.com/AasSuhendar/go-whatsapp-multidevice-rest/pkg/env"
 )
 
 var AuthBasicUsername string

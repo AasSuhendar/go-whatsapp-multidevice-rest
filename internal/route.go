@@ -6,16 +6,16 @@ import (
 
 	eSwagger "github.com/swaggo/echo-swagger"
 
-	"github.com/dimaskiddo/go-whatsapp-multidevice-rest/pkg/auth"
-	"github.com/dimaskiddo/go-whatsapp-multidevice-rest/pkg/router"
+	"github.com/AasSuhendar/go-whatsapp-multidevice-rest/pkg/auth"
+	"github.com/AasSuhendar/go-whatsapp-multidevice-rest/pkg/router"
 
-	_ "github.com/dimaskiddo/go-whatsapp-multidevice-rest/docs"
+	_ "github.com/AasSuhendar/go-whatsapp-multidevice-rest/docs"
 
-	ctlAuth "github.com/dimaskiddo/go-whatsapp-multidevice-rest/internal/auth"
-	typAuth "github.com/dimaskiddo/go-whatsapp-multidevice-rest/internal/auth/types"
+	ctlAuth "github.com/AasSuhendar/go-whatsapp-multidevice-rest/internal/auth"
+	typAuth "github.com/AasSuhendar/go-whatsapp-multidevice-rest/internal/auth/types"
 
-	ctlIndex "github.com/dimaskiddo/go-whatsapp-multidevice-rest/internal/index"
-	ctlWhatsApp "github.com/dimaskiddo/go-whatsapp-multidevice-rest/internal/whatsapp"
+	ctlIndex "github.com/AasSuhendar/go-whatsapp-multidevice-rest/internal/index"
+	ctlWhatsApp "github.com/AasSuhendar/go-whatsapp-multidevice-rest/internal/whatsapp"
 )
 
 func Routes(e *echo.Echo) {

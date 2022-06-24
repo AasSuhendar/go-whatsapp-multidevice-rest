@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/aassuhendar/Research/Go/repository/go-whatsapp-multidevice-rest'
+make clean
+GO111MODULE=on go mod init
+make: Leaving directory `/Users/aassuhendar/Research/Go/repository/go-whatsapp-multidevice-rest'
+ 

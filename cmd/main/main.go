@@ -31,11 +31,11 @@ import (
 
 	"github.com/go-playground/validator/v10"
 
-	"github.com/dimaskiddo/go-whatsapp-multidevice-rest/pkg/env"
-	"github.com/dimaskiddo/go-whatsapp-multidevice-rest/pkg/log"
-	"github.com/dimaskiddo/go-whatsapp-multidevice-rest/pkg/router"
+	"github.com/AasSuhendar/go-whatsapp-multidevice-rest/pkg/env"
+	"github.com/AasSuhendar/go-whatsapp-multidevice-rest/pkg/log"
+	"github.com/AasSuhendar/go-whatsapp-multidevice-rest/pkg/router"
 
-	"github.com/dimaskiddo/go-whatsapp-multidevice-rest/internal"
+	"github.com/AasSuhendar/go-whatsapp-multidevice-rest/internal"
 )
 
 type Server struct {

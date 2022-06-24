@@ -1,0 +1,1 @@
+{"buildTargets":[".SILENT","build","c-build","c-clean","c-logs","c-push","c-run","c-shell","c-stop","clean","clean-build","clean-dbs","clean-dist","commit","gen-docs","init","init-dist","publish","pull","push","rebase","release","run","vendor"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
